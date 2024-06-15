@@ -6,6 +6,7 @@ let songs = [
     coverImg: "img01",
     audio: "calmdown"
   },
+
   {
     name: "G.O.A.T.",
     artist: "Diljit Dosanjh",
@@ -13,6 +14,7 @@ let songs = [
     coverImg: "img02",
     audio: "goat"
   },
+
   {
     name: "Badshah · Arijit Singh",
     artist: "Soulmate",
@@ -20,6 +22,7 @@ let songs = [
     coverImg: "img03",
     audio: "badsh"
   },
+  
   {
     name: "Until I Found You",
     artist: "Stephen Sanchez",
